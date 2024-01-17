@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\code\lesson 3\Source.cpp(10,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  lesson 3.vcxproj -> D:\code\lesson 1\x64\Debug\lesson 3.exe

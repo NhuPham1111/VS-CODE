@@ -1,0 +1,22 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+	int n;
+	cout << "Nhap n : ";
+	cin >> n;
+
+	float s = 0;
+	int i = 0;
+
+	while (i <= n)
+	{
+		s = sqrt(i + s);
+		cout << "la: " << s;
+
+		i = i + 1;
+
+	}
+	cout << "Tong la: " << s;
+	return 1;
+}

@@ -1,0 +1,3 @@
+﻿  Bai 140.cpp
+D:\code\Luu do thuat toan\Bai 140\Bai 140.cpp(19,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Bai 140.vcxproj -> D:\code\Luu do thuat toan\x64\Debug\Bai 140.exe
